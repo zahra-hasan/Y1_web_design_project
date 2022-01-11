@@ -1,5 +1,5 @@
 # web_design_project
-This is a web design project for COM1008 web and technology course that was written using HTML and CSS.
+This is a web design project for web and technology course that was written using HTML and CSS.
 # The Project objective
 The project objective was to implement a website about myself and the degree I’m studying using mobile first responsive web design.		
 # The development process
